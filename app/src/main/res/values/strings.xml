@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MovieDB</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Details Fragment -->
+    <string name="genre">Genre</string>
+    <string name="description">Description</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Add Fragment -->
+    <string name="enter_title">Enter title...</string>
+    <string name="title">Title</string>
+    <string name="enter_description">Enter description...</string>
+    <string name="title_add_new">Add new Movie</string>
+
+    <!-- Crouton msg-s -->
+    <string name="dismiss_title">Please enter title</string>
+    <string name="dismiss_network">Check internet connection</string>
+
+</resources>

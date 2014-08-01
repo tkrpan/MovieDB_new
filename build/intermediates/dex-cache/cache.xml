@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/home/tomislav/Documents/Tomislav/Dropbox/AndroidStudioProject/git/MovieDB/app/build/intermediates/pre-dexed/debug/crouton-1.8.4-03c23c699cd6023a4d456f503b4e5d00ec4de86c.jar"
+        jar="/home/tomislav/.gradle/caches/modules-2/files-2.1/de.keyboardsurfer.android.widget/crouton/1.8.4/c2544779f1579b0fd6e81590812fcdea034e6a69/crouton-1.8.4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="c2544779f1579b0fd6e81590812fcdea034e6a69"/>
+    <item
+        dex="/home/tomislav/Documents/Tomislav/Dropbox/AndroidStudioProject/MovieDB/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-bfe6379f31d17615f5ca4b83bd0a7235fba0720f.jar"
+        jar="/usr/share/android-studio/data/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+    <item
+        dex="/home/tomislav/Documents/Tomislav/Dropbox/AndroidStudioProject/git/MovieDB/app/build/intermediates/pre-dexed/debug/classes-8a673b177d535ac8750e058cc734342b33097bb2.jar"
+        jar="/home/tomislav/Documents/Tomislav/Dropbox/AndroidStudioProject/git/MovieDB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28"/>
+    <item
+        dex="/home/tomislav/Documents/Tomislav/Dropbox/AndroidStudioProject/MovieDB/app/build/intermediates/pre-dexed/debug/classes-1cd4eb62f17694d5ec2719a7ac8a37b9e332276d.jar"
+        jar="/home/tomislav/Documents/Tomislav/Dropbox/AndroidStudioProject/MovieDB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28"/>
+    <item
+        dex="/home/tomislav/Documents/Tomislav/Dropbox/AndroidStudioProject/git/MovieDB/app/build/intermediates/pre-dexed/debug/eventbus-2.2.1-383706737b192e4160d6a8cd1238fcaeca115684.jar"
+        jar="/home/tomislav/.gradle/caches/modules-2/files-2.1/de.greenrobot/eventbus/2.2.1/a18ff12a9ab5ae52fd30d42f134517997568231e/eventbus-2.2.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="a18ff12a9ab5ae52fd30d42f134517997568231e"/>
+
+</pre-dex-items>

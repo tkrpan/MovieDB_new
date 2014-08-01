@@ -1,0 +1,64 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragments.TitlesFragment">
+
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/relativeLayout1"
+        android:layout_above="@+id/relativeLayout2"
+        android:layout_alignParentTop="true">
+
+        <ListView
+            android:id="@+id/listView_titles"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"/>
+    </RelativeLayout>
+
+    <!-- FOOTER -->
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="46dp"
+        android:background="@drawable/border_footer"
+        android:id="@+id/relativeLayout2"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="45dp"
+            android:background="@android:color/white"
+            android:paddingRight="10dp"
+            android:paddingLeft="10dp"
+            android:id="@+id/relativeLayout3"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true">
+
+            <ImageButton
+                android:id="@+id/button_add"
+                android:layout_width="37dp"
+                android:layout_height="37dp"
+                android:background="@drawable/ic_action_new_event"
+                android:layout_centerVertical="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true" />
+
+            <ImageButton
+                android:id="@+id/button_refresh"
+                android:layout_width="37dp"
+                android:layout_height="37dp"
+                android:background="@drawable/ic_action_refresh"
+                android:layout_centerVertical="true"
+                android:layout_centerHorizontal="true"/>
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+</RelativeLayout>
